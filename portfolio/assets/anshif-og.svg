@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#D71920"/>
+  <path d="M54 46h1092v538H54z" fill="#090909"/>
+  <path d="M74 66h1052v498H74z" fill="none" stroke="#E7E4D8" stroke-opacity=".22"/>
+  <text x="1060" y="540" fill="#D71920" fill-opacity=".15" font-family="Georgia,serif" font-size="560" text-anchor="end">A</text>
+  <text x="110" y="130" fill="#F04A4E" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">PROFESSIONAL RECORD · BENGALURU</text>
+  <text x="103" y="300" fill="#E7E4D8" font-family="Georgia,serif" font-size="124" letter-spacing="-5">NUMBERS LEAVE</text>
+  <text x="103" y="420" fill="#D71920" font-family="Georgia,serif" font-size="112" font-style="italic" letter-spacing="-4">a paper trail.</text>
+  <path d="M110 466h980" stroke="#D71920" stroke-width="2"/>
+  <text x="110" y="520" fill="#AAA69E" font-family="Arial,sans-serif" font-size="21">Anshif · ACCA part-qualified · Audit, assurance &amp; financial reporting</text>
+</svg>

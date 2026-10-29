@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#D71920"/>
+  <path d="M54 46h1092v538H54z" fill="#090909"/>
+  <path d="M74 66h1052v498H74z" fill="none" stroke="#E7E4D8" stroke-opacity=".22"/>
+  <text x="1060" y="540" fill="#D71920" fill-opacity=".16" font-family="Georgia,serif" font-size="560" text-anchor="end">S</text>
+  <text x="110" y="130" fill="#D9B6AF" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">THE SANTHRA FILES · DEVELOPER ARCHIVE</text>
+  <text x="103" y="300" fill="#E7E4D8" font-family="Georgia,serif" font-size="125" letter-spacing="-6">BUILT TO</text>
+  <text x="103" y="420" fill="#E7E4D8" font-family="Georgia,serif" font-size="117" font-style="italic" letter-spacing="-5">break the grid.</text>
+  <path d="M110 466h980" stroke="#D71920" stroke-width="2"/>
+  <text x="110" y="520" fill="#AAA69E" font-family="Arial,sans-serif" font-size="21">Santhra S · B.Sc. Computer Science · Software projects</text>
+</svg>
